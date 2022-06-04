@@ -1,0 +1,8 @@
+ac40047c9a0310577660a8b21b8f0e527167dcac (HEAD -> master, origin/master) Merge pull request #2 from Cutter72/ofiary_agresji
+244f4f50f63c59aef7dffae6c215b2d88e85012a (tag: v4.3, origin/ofiary_agresji, ofiary_agresji) Ustanowienie Dania Dzieci BOA
+4d4562dc619210293b5939a29792715fc6c10350 MD Dzieci BOA
+4e812541bdfd28926fe8af702c9d6b3e296c4cd8 Merge pull request #1 from Cutter72/environment
+9d65a4cf09f84cc3b03130eea1a4697645241af7 (tag: v4.2, origin/environment) Deklaracja Sztokholmska
+9d4abf34fe496e77b7dd52254662a0b37b780ef8 Ustanowienie ŚDŚ
+9ab7d58a31ca9accf0220a3c47e707dce4df1490 Światowy Dzień Środowiska
+141f60b5e05d8e8459aee51422737b1177480760 Stworzono plik README.md oraz .gitignore
